@@ -16,6 +16,10 @@ Die Vorschau zeigt zwölf Haupt-Ribbons und zehn Untergrafiken, jeweils 3× verg
 
 ![FH Naval Heritage: deutsche Produktvorschau mit zwölf Haupt-Ribbons und zehn Untergrafiken.](preview-de.png)
 
+### Offizieller World of Warships ModHub
+
+**Von Wargaming freigegeben und im offiziellen ModHub veröffentlicht:** [FH Naval Heritage im ModHub](https://mods.worldofwarships.com/mod/411). Der GitHub-Release-Download bleibt als alternative manuelle Installation verfügbar.
+
 ### Download und Installation
 
 **FH-Version: 1.0.0.** [FH_Naval_Heritage.zip direkt herunterladen](https://github.com/FeuchterHase/fh-naval-heritage/releases/download/v1.0.0/FH_Naval_Heritage.zip) · [Release v1.0.0](https://github.com/FeuchterHase/fh-naval-heritage/releases/tag/v1.0.0).
@@ -53,6 +57,10 @@ The set contains **72 graphics**: 33 main ribbons, 25 rectangular sub-ribbons an
 The preview shows twelve main ribbons and ten sub-ribbons, each enlarged 3×.
 
 ![FH Naval Heritage: English product preview with twelve main ribbons and ten sub-ribbons.](preview-en.png)
+
+### Official World of Warships ModHub
+
+**Approved by Wargaming and published in the official ModHub:** [FH Naval Heritage on ModHub](https://mods.worldofwarships.com/mod/411). The GitHub release remains available as an alternative manual download.
 
 ### Download and installation
 
